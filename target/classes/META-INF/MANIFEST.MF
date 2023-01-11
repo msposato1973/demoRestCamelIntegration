@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: massimo.sposato
-Build-Jdk: 18.0.1
+Build-Jdk: 19.0.1
+Implementation-Title: demoRestCamelIntegration
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demoRestCamelIntegration
 Created-By: Maven Integration for Eclipse
 
